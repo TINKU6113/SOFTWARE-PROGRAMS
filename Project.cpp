@@ -1,3 +1,5 @@
+//The code is for Volunteer Management system for Non Profit Organisation with using MySql database.
+
 #include<iostream>
 #include<string>
 #include <mysql_driver.h>
